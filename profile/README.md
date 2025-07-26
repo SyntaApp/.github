@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/synta-org/.github/assets/logo-rounded.png" alt="Synta Logo" width="150" align="right">
 
-Design visually. Sync to TSX. A local-first editor for building websites in a Figma-like UI without rewriting designs in code.
+A local-first editor for building websites in a Figma-like UI while having your changes sync directly to code.
 
 * Works with your existing codebase  
 * Instant preview of changes
