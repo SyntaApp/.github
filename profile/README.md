@@ -1,6 +1,6 @@
 ## 👋 Hey, we’re Synta.
 
-<img src="https://raw.githubusercontent.com/synta-org/.github/assets/logo-rounded.png" alt="Synta Logo" width="150" align="right">
+<img src="https://raw.githubusercontent.com/SyntaApp/.github/assets/logo-rounded.png" alt="Synta Logo" width="150" align="right">
 
 A local-first editor for building websites in a Figma-like UI while having your changes sync directly to code.
 
