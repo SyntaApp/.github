@@ -30,8 +30,8 @@ If your intrested, **join our Discord** or **sponsor us** on kofi.
 </span>
 
 ## 📁 Repositories
-
-**[Roadmap](https://github.com/SyntaApp/roadmap)** - Our development roadmap
+- **[App](https://github.com/SyntaApp/app)** - Synta itself
+- **[Roadmap](https://github.com/SyntaApp/roadmap)** - Our development roadmap
 
 > More coming soon — join the early wave by joining our Discord above 🌊
 
