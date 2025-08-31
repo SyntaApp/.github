@@ -12,13 +12,7 @@ A local-first editor for building websites in a Figma-like UI while having your 
 * Designs sync instantly to your react codebase
 
 ## ✨ Contribute
-
-Synta is open source and built by the community. Designers, devs, docs writers, and anyone else is welcome at Synta.
-
-- Fork a repo, open a PR... help us reshape how the web is made.  
-- Ideas, bugs, feedback? Drop them in [issues](https://github.com/synta-org/issues) or our Discord.
-
-If your intrested, **join our Discord** or **sponsor us** on kofi.
+Synta is being kept close sourced, if you're intrested in contributing, join the Discord.
 
 <span>
   <a href="https://discord.gg/WtNVpwwzqE">
@@ -28,10 +22,6 @@ If your intrested, **join our Discord** or **sponsor us** on kofi.
     <img height="60"  alt="kofi" src="https://github.com/user-attachments/assets/c983a48c-ca72-479d-948a-2a95609a735a" />
   </a>
 </span>
-
-## 📁 Repositories
-- **[App](https://github.com/SyntaApp/app)** - Synta itself
-- **[Roadmap](https://github.com/SyntaApp/roadmap)** - Our development roadmap
 
 > More coming soon — join the early wave by joining our Discord above 🌊
 
