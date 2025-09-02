@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/SyntaApp/.github/refs/heads/main/assets/logo-rounded.png" alt="Synta Logo" width="150" align="right">
 
-A local-first editor for building websites in a Figma-like UI while having your changes sync directly to code.
+An AI powered web design tool that syncs your designs to almost any framework or language.
 
 * Works with your existing codebase  
 * Instant preview of changes
