@@ -23,5 +23,5 @@ Synta is being kept close sourced, if you're intrested in contributing, join the
   </a>
 </span>
 
-> More coming soon — join the early wave by joining our Discord above 🌊
+> More coming soon, join the early wave by joining our Discord above 🌊
 
